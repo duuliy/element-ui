@@ -12,7 +12,7 @@
 
 <script>
 
-  import product_specially from "./components/common/product_specially.vue"
+  import product_specially from "./components/common/product_specially.vue "
 
   import A_footer from "./components/common/a_footer.vue"
 
